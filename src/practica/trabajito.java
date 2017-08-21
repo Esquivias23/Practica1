@@ -94,7 +94,7 @@ public class trabajito extends JFrame implements ActionListener{
     }
     public void clean(){
         fabb = " ";
-        total1 = 0;
+        total1 = 1;
         fabonH.clear();
     }
     
